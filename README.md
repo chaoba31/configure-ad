@@ -33,7 +33,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 </p>
 <p>
-
+.
+  .
+  .
+  .
+  .
+  .
+  .
 </p>
 <br />
 
@@ -59,53 +65,72 @@ We will go ahead and create a new one.
 <img width="1670" height="924" alt="04" src="https://github.com/user-attachments/assets/cfd71e90-748e-49e7-8f59-f8a42370278b" />
 <p>
 Create a name for your virtual network.
+</p>
 
 
 
 <p>
 <br />
-
-
-
-
-
-
-
-<p>
+<img width="1664" height="919" alt="05" src="https://github.com/user-attachments/assets/52289bfd-27a1-46b4-a6ea-7dec4ebda09f" />
+</p>
 
 
 
 <p>
-<br />
-
-
-
-
-
-
-
-
-
-<p>
+At the top of the search bar, type in "vm."
+Look for "virtual machine," and click. This will commence the creation of the virtual machine.
 
 
 
 <p>
 <br />
+</p>
 
 
+
+
+<img width="1662" height="918" alt="06" src="https://github.com/user-attachments/assets/8bcb9a9d-0621-4ded-b9d5-f2b6333090a8" />
+
+
+
+
+<p>
+Select the resource group that you've created prior.
+This will be the network that the vitrual machine will be on.
+Then select a zone.
+
+</p>
+
+<img width="1664" height="916" alt="07" src="https://github.com/user-attachments/assets/8022853f-bda0-4ebc-af00-f0c5f607012c" />
+
+
+
+<p>
+Select the "password" option. This will allow you to create a username as well as a password to login to your virtual machine. 
+You can also see the pricing for the virtual machine off to the far right. Click the "review and create" button to proceed.
+  
+<br />
+
+</p>
+
+
+<img width="1664" height="920" alt="08" src="https://github.com/user-attachments/assets/7cfccd4f-57c2-4e79-94f3-6f9b44807351" />
 
 
 
 
 
 <p>
+The Virtual Machine has successfully been created.
 
 
 
 <p>
 <br />
+</p>
 
+
+<img width="1666" height="918" alt="09" src="https://github.com/user-attachments/assets/d6654dc0-7f83-4366-83a4-c8a7cbd1a53a" />
 
 
 
@@ -116,11 +141,13 @@ Create a name for your virtual network.
 
 
 <p>
+Virtual Machine can be seen here.
 
 
 
 <p>
 <br />
+</p>
 
 
 
