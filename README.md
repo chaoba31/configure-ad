@@ -6,9 +6,6 @@
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -32,25 +29,98 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1193" height="622" alt="01" src="https://github.com/user-attachments/assets/750ea55a-46c5-49d8-a1ad-36d35b344471" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="1583" height="771" alt="02" src="https://github.com/user-attachments/assets/0b12a470-6932-482e-9325-bedad81f3829" />
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First we'll start by clicking the "Create New Resource" button.
+This will be essential for creating a new Virtual Machine.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1651" height="907" alt="03" src="https://github.com/user-attachments/assets/dae40236-4b5a-4684-854d-f23ca1a7ef52" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As you can see, there are already a few other resources that exist.
+We will go ahead and create a new one.
 </p>
 <br />
+
+<img width="1670" height="924" alt="04" src="https://github.com/user-attachments/assets/cfd71e90-748e-49e7-8f59-f8a42370278b" />
+<p>
+Create a name for your virtual network.
+
+
+
+<p>
+<br />
+
+
+
+
+
+
+
+<p>
+
+
+
+<p>
+<br />
+
+
+
+
+
+
+
+
+
+<p>
+
+
+
+<p>
+<br />
+
+
+
+
+
+
+
+<p>
+
+
+
+<p>
+<br />
+
+
+
+
+
+
+
+
+
+
+<p>
+
+
+
+<p>
+<br />
+
+
+
